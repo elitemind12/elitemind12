@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Daniel Makyao
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, react, reactNative
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me makyaodaniel55@gmail.com
 <div id="header" align="center">
